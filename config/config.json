@@ -1,0 +1,6 @@
+{
+	"SSL" : {"crt":"./enc/crtfile.crt","key":"./enc/sslkey.key"},
+	"FB_TOKEN":{
+		"ACCESS_TOKEN":"",
+		"VERIFY_TOKEN":""}
+}
